@@ -1,9 +1,11 @@
 import Image from "next/image";
 import styles from "./page.module.css";
-import Test from  "../components/test.jsx"
 
 export default function Home() {
   return (
-      <Test />
-  );
+    <div>
+      <h1>HAAAAAAAAA</h1>
+      <h2>HMMMMMMMMMMMMMM</h2>
+    </div>
+    );
 }
